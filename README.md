@@ -23,6 +23,3 @@ Please do not use this data to guide your own eating choices. This is for entert
 
 ## Usage
 I went back and forth on how to share this, and ended up doing it in a jupyter notebook format. Given the explroatory nature of this project and the educational twist, I thought a notebook would be the most digestible format.
-
-## Write up
-[Availalbe here](WRITEUP.md)
