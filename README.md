@@ -23,3 +23,14 @@ Please do not use this data to guide your own eating choices. This is for entert
 
 ## Usage
 I went back and forth on how to share this, and ended up doing it in a jupyter notebook format. Given the explroatory nature of this project and the educational twist, I thought a notebook would be the most digestible format.
+
+The notebook is available [here](perfect_meal.ipynb).
+
+To run it, make sure your environment has the necessary packages installed (listed in `requirements.txt`).
+
+For instance:
+```shell
+pyhon -m venv meal_venv
+source meal_venv/bin/activate
+pip install -r requirements.txt
+```
