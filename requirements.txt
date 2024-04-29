@@ -1,0 +1,8 @@
+fuzzywuzzy
+matplotlib
+numpy
+openpyxl
+pandas
+python-Levenshtein
+scipy
+tqdm
